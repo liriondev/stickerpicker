@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Kiritsu.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}
