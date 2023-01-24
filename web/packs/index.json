@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Kiritsu.json"
+    "Kiritsu.json",
+    "LINE_Mafumafu_cat_Sticker.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
